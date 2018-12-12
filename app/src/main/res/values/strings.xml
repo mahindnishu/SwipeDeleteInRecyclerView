@@ -1,0 +1,8 @@
+<resources>
+        <string name="action_settings">Settings</string>
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="undo_label"><u>Undo</u></string>
+        <string name="archived_label">Archive</string>
+        <string name="app_name">SwipeDeleteInRecyclerView</string>
+    <string name="appbar_scrolling_view_behavior" />
+</resources>
